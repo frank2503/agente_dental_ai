@@ -1,0 +1,14 @@
+# Python
+key.py
+__pycache__
+tools.py
+agent_ai.py
+
+# Google API
+token.pickle
+credentials2.json
+credentials.json
+
+# Otros
+.env
+.venv
